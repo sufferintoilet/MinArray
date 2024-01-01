@@ -5,7 +5,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        int[] array= {1,2,3,4,5,6,7,8,9,20,21};
+        int[] array= {11,2,3,4,5,6,7,8,9,20,21};
         Console.WriteLine("Gia tri nho nhat la");
         Console.WriteLine(MinFind(array));
     }
